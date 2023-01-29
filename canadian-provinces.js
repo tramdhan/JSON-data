@@ -1,4 +1,4 @@
-[
+const provinces = [
 {"id": 1, "name": "Alberta", "abbr": "AB"},
 {"id": 2, "name": "British Columbia", "abbr": "BC"},
 {"id": 3, "name": "Manitoba", "abbr": "MB"},
